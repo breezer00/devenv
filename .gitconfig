@@ -1,0 +1,11 @@
+[user]
+   name = Yanlei Zhao
+   email = yanleizhaocs@gmail.com
+[color]
+   ui = auto
+[alias]
+   st = status
+   ci = commit
+   ck = checkout
+   br = branch
+   lol = log --graph --decorate --pretty=oneline --abbrev-commit
