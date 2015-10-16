@@ -46,9 +46,10 @@ let c_comment_strings=1
 let c_space_errors=1
 
 " Highlight text that goes over 79
-highlight OverLength ctermbg=234 ctermfg=darkgreen guibg=#000000
-" highlight OverLength ctermbg=black ctermfg=green guibg=#FFD9D9
-match OverLength /\%80v.\+/
+augroup vimrc_autocmds
+   autocmd BufEnter * highlight OverLength ctermbg=234 ctermfg=darkgreen guibg=#000000
+   autocmd BufEnter * match OverLength /\%>79v.\+/
+augroup END
 
 " Set spellcheck region
 set spelllang=en
