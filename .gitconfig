@@ -1,6 +1,6 @@
 [user]
    name = Yanlei Zhao
-   email = breezer00@gmail.com
+   email = yanleizhaocs@gmail.com
 [color]
    ui = auto
 [alias]
@@ -9,3 +9,5 @@
    ck = checkout
    br = branch
    lol = log --graph --decorate --pretty=oneline --abbrev-commit
+[push]
+   default = simple
