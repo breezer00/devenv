@@ -58,6 +58,9 @@ set spelllang=en
 hi clear SpellBad
 hi SpellBad cterm=underline
 
+" Add full file path to existing statusline
+set statusline+=%F
+
 " Fancy relative number/absolute number mode toggle
 function! NumberToggle()
    if(&relativenumber == 1)
