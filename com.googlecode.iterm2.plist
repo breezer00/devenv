@@ -30489,7 +30489,7 @@
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Documents</string>
+	<string>~/Projects</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{712, 470}</string>
 	<key>NSQuotedKeystrokeBinding</key>
@@ -31239,7 +31239,7 @@
 	<key>NoSyncTimeOfLastPromo</key>
 	<real>459791991.88287401</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
-	<real>466545311.01635301</real>
+	<real>466631717.24024302</real>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -31288,7 +31288,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/yanleizhao/Documents</string>
+	<string>/Users/yanleizhao/Projects</string>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -31304,7 +31304,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-10-14T19:54:39Z</date>
+	<date>2015-10-15T19:54:38Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
@@ -31334,7 +31334,7 @@
 	<key>UseBorder</key>
 	<false/>
 	<key>UseCompactLabel</key>
-	<false/>
+	<true/>
 	<key>UseLionStyleFullscreen</key>
 	<true/>
 	<key>WebKitDefaultFontSize</key>
