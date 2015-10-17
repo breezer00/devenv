@@ -59,7 +59,7 @@ hi clear SpellBad
 hi SpellBad cterm=underline
 
 " Add full file path to existing statusline
-set statusline+=%F
+set ls=2
 
 " Fancy relative number/absolute number mode toggle
 function! NumberToggle()
