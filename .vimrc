@@ -3,6 +3,9 @@ filetype off
 
 " Run pathogen
 " https://github.com/tpope/vim-pathogen
+" Instal pathogen by running the following command:
+" mkdir -p ~/.vim/autoload ~/.vim/bundle && \
+" curl -LSso ~/.vim/autoload/pathogen.vim https://tpo.pe/pathogen.vim
 execute pathogen#infect()
 
 filetype plugin indent on
