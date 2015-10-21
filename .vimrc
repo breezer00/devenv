@@ -11,7 +11,9 @@ execute pathogen#infect()
 filetype plugin indent on
 
 " Key mapping for vim-commentary
-" https://github.com/tpope/vim-commentary
+" First install pathogen, then execute the following command:
+" cd ~/.vim/bundle
+" git clone git://github.com/tpope/vim-commentary.git
 nmap <BS> gcc
 vmap <BS> gc
 
